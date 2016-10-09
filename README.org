@@ -2,3 +2,4 @@
 #+options: num:nil
 *** Classic Algorithms
    + [[file:PLA][PLA, Perceptron Learning Algorithm]]
+   + [[file:LinearRegression][Linear Regression]]
